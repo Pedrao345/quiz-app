@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Qual é a função da vírgula em uma frase?",
+    "options": ["Indicar pausa", "Substituir ponto final", "Separar parágrafos", "Destacar palavras importantes"],
+    "correctAnswer": "Indicar pausa"
+  },
+  {
+    "question": "Qual é o plural correto da palavra 'cidadão'?",
+    "options": ["Cidadões", "Cidadãos", "Cidadãoses", "Cidadãoss"],
+    "correctAnswer": "Cidadãos"
+  },
+  {
+    "question": "Qual é o sujeito da frase 'Os alunos estudam para a prova'?",
+    "options": ["Os alunos", "Estudam", "Para a prova", "Não há sujeito"],
+    "correctAnswer": "Os alunos"
+  },
+  {
+    "question": "Qual é o tempo verbal da frase 'Eu estudarei amanhã'?",
+    "options": ["Presente", "Futuro do presente", "Pretérito perfeito", "Pretérito imperfeito"],
+    "correctAnswer": "Futuro do presente"
+  },
+  {
+    "question": "Qual é a função do advérbio em uma frase?",
+    "options": ["Modificar verbo, adjetivo ou outro advérbio", "Substituir o sujeito", "Indicar tempo verbal", "Conectar frases"],
+    "correctAnswer": "Modificar verbo, adjetivo ou outro advérbio"
+  },
+  {
+    "question": "Qual das alternativas apresenta um pronome pessoal do caso reto?",
+    "options": ["Me", "Mim", "Eu", "Comigo"],
+    "correctAnswer": "Eu"
+  },
+  {
+    "question": "Qual é a forma correta de escrever: 'há muitos anos' ou 'a muitos anos'?",
+    "options": ["há muitos anos", "a muitos anos", "ambas estão corretas", "nenhuma está correta"],
+    "correctAnswer": "há muitos anos"
+  },
+  {
+    "question": "Qual é o plural correto de 'cão'?",
+    "options": ["Cãos", "Cães", "Cãoss", "Cãeses"],
+    "correctAnswer": "Cães"
+  },
+  {
+    "question": "Em qual frase a crase está correta?",
+    "options": ["Vou à escola todos os dias", "Vou a à escola todos os dias", "Vou a escola todos os dias", "Vou às escola todos os dias"],
+    "correctAnswer": "Vou à escola todos os dias"
+  },
+  {
+    "question": "Qual é o sujeito da frase 'Choveu muito ontem'?",
+    "options": ["Choveu", "Muito", "Ontem", "Não há sujeito"],
+    "correctAnswer": "Não há sujeito"
+  }
+]
