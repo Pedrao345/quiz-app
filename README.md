@@ -78,10 +78,8 @@ Esta seção detalha a funcionalidade extra implementada como parte do desafio f
 *Nesta seção, descreva brevemente o que você precisou pesquisar e aprender para implementar a funcionalidade. Qual foi o maior desafio? Qual novo Hook do React, API do Expo ou conceito de lógica você aplicou?*
 
 ### Demonstração da Nova Funcionalidade
-<p align="center">
   <img src="![quiz-app](https://github.com/user-attachments/assets/f2861302-ae3c-4de7-acbf-49ef4bafa103)
 " alt="Demonstração da Nova Funcionalidade" width="300"/>
-</p>
 
 ---
 
