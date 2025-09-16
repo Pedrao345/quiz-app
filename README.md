@@ -36,7 +36,7 @@ Este projeto é um aplicativo de Quiz multiplataforma, desenvolvido com React Na
 - **Placar:** Pontuação é calculada e atualizada a cada rodada.
 - **Tela de Resultados:** Ao final do quiz, uma tela exibe a pontuação final.
 - **Jogar Novamente:** O usuário pode reiniciar o quiz a partir da tela de resultados.
-- **Funcionalidade Adicional:** **[Nome da sua nova funcionalidade]** (ex: Cronômetro regressivo por pergunta).
+- **Funcionalidade Adicional:** **[Embaralhador de questões]**
 
 ---
 
@@ -52,7 +52,7 @@ Este projeto é um aplicativo de Quiz multiplataforma, desenvolvido com React Na
 
 ```bash
 # 1. Clone o repositório
-$ git clone [link-do-seu-repositorio]
+$ git clone [https://github.com/Pedrao345/quiz-app.git]
 
 # 2. Navegue até o diretório do projeto
 $ cd quiz-app
@@ -67,7 +67,7 @@ Após executar `npm start`, pressione `w` para abrir no navegador ou escaneie o 
 
 ---
 
-## ✨ Funcionalidade Adicional: [Nome da sua Feature]
+## ✨ Funcionalidade Adicional: []
 
 Esta seção detalha a funcionalidade extra implementada como parte do desafio final do curso.
 
