@@ -35,7 +35,7 @@ Este projeto é um aplicativo de Quiz multiplataforma, desenvolvido com React Na
 - **Placar:** Pontuação é calculada e atualizada a cada rodada.
 - **Tela de Resultados:** Ao final do quiz, uma tela exibe a pontuação final.
 - **Jogar Novamente:** O usuário pode reiniciar o quiz a partir da tela de resultados.
-- **Funcionalidade Adicional:** **[Embaralhador de questões]**
+- **Funcionalidade Adicional:** **[Embaralharar as questões]**
 
 ---
 
@@ -66,15 +66,15 @@ Após executar `npm start`, pressione `w` para abrir no navegador ou escaneie o 
 
 ---
 
-## ✨ Funcionalidade Adicional: []
+## ✨ Funcionalidade Adicional: [Embaralhar questões]
 
-Esta seção detalha a funcionalidade extra implementada como parte do desafio final do curso.
+Embaralha todas as questões do quiz.
 
 ### Descrição
-*Aqui você deve descrever em 1 ou 2 parágrafos o que a nova funcionalidade faz e como ela se integra ao aplicativo de Quiz.*
+A nova funcionalidade consiste em embaralhar as questões do quiz. Essa funcionalidade foi adicionada para melhorar a rejogabilidade do quiz e deixá-lo mais dinâmico.
 
 ### Desafios e Aprendizados
-*Nesta seção, descreva brevemente o que você precisou pesquisar e aprender para implementar a funcionalidade. Qual foi o maior desafio? Qual novo Hook do React, API do Expo ou conceito de lógica você aplicou?*
+Para implementar essa funcionalidade no meu aplicativo, eu tive que reforçar os estudos em Rooks do React. O que eu usei foi o useState, e o embaralhamento de array usando o sort e o Math.random. As maiores dificuldades em usar os Rooks do React inicialmente, por isso tive que reforçar mais os meus estudos.
 
 ### Demonstração da Nova Funcionalidade
 ![quiz-app](https://github.com/user-attachments/assets/ead8ce3c-49f4-4851-8106-e673a896442a)
