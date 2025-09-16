@@ -23,9 +23,8 @@ Este projeto é um aplicativo de Quiz multiplataforma, desenvolvido com React Na
 ---
 
 ### Demonstração da Aplicação
-<p align="center">
-  <img src="link-para-seu-gif-ou-video.gif" alt="Demonstração do App" width="300"/>
-</p>
+
+![quiz-app](https://github.com/user-attachments/assets/94c39474-e90e-4bf5-9fd9-1b264f4c5e27)
 
 ---
 
