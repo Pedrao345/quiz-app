@@ -79,7 +79,8 @@ Esta seção detalha a funcionalidade extra implementada como parte do desafio f
 
 ### Demonstração da Nova Funcionalidade
 <p align="center">
-  <img src="link-para-seu-gif-ou-screenshot.png" alt="Demonstração da Nova Funcionalidade" width="300"/>
+  <img src="![quiz-app](https://github.com/user-attachments/assets/f2861302-ae3c-4de7-acbf-49ef4bafa103)
+" alt="Demonstração da Nova Funcionalidade" width="300"/>
 </p>
 
 ---
